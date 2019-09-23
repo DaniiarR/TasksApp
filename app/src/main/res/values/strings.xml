@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tasks App</string>
+    <string name="editor_add_task">Add a Task</string>
+    <string name="editor_edit_task">Edit Task</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="editor_save">Save</string>
+</resources>
